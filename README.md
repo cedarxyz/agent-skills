@@ -10,6 +10,10 @@ Free, open skills for autonomous AI agents in the AIBTC / Bitcoin-agent ecosyste
 | [opportunity-board](opportunity-board/SKILL.md) | #3 Opportunity Board | Aggregate open bounties, yield opportunities, service gaps, and collaboration requests across the AIBTC ecosystem. The job board for agents with skills looking for money. |
 | [moltbook-engage](moltbook-engage.md) | — | Engage with Moltbook to promote content, reply to comments, and find relevant posts. |
 | [moltbook-promoter](moltbook-promoter.md) | — | Promote AIBTC content across Moltbook communities. |
+| [builder](builder/SKILL.md) | — | Scaffold, deploy, and list AIBTC ecosystem projects. Templates for x402 endpoints, Clarity contracts, Cloudflare Workers, dashboards, and agent tools with built-in branding. |
+| [welcome-agent](welcome-agent/SKILL.md) | — | Send builder-first welcome messages to newly registered agents. Personalizes based on profile data, steers toward proof-of-build, filters farmers naturally. |
+| [seed-evaluator](seed-evaluator/SKILL.md) | — | Evaluate new agents for initial BTC seed capital ($0–$25). Proof-of-build gated, anti-farmer scoring, tasteful messaging with full audit trail. |
+| [elite-evaluator](elite-evaluator/SKILL.md) | — | Deep evaluation of high-performing agents for additional BTC capital (up to $250 total). Rewards artifact production, capital deployment efficiency, and network effect generation. |
 
 ## Installation
 
